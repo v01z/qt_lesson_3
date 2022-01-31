@@ -1,0 +1,8 @@
+If you wish to load any text to PlainTextEdit, please 
+press button 'Open' to choose a text file.
+
+Press button 'Save' to save text from PlainTextEdit
+to a certain textfile.
+
+Click 'Close' to exit current task.
+
